@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ino": "arduino-output",
+        "stm32f10x.h": "c"
+    }
+}
